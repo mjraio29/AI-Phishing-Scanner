@@ -1,0 +1,26 @@
+From: security@paypa1-secure.com
+Reply-To: attacker@malicious-domain.tk
+To: victim@email.com
+Subject: URGENT: Your PayPal account has been suspended - Action Required
+
+Dear Customer,
+
+We have detected UNUSUAL ACTIVITY on your PayPal account. Your account has been
+SUSPENDED effective immediately due to a suspected unauthorized access attempt.
+
+You must verify your account information IMMEDIATELY to restore access.
+Failure to act within 24 HOURS will result in PERMANENT account closure.
+
+Click here to verify your account now:
+<a href="http://paypa1-login.tk/verify?token=abc123">https://www.paypal.com/verify</a>
+
+To restore your account, you will need to provide:
+- Full name and date of birth
+- Credit card number and CVV
+- Social security number
+- Bank account and routing number
+- Current password
+
+This is your FINAL WARNING. Act now or lose access to your funds permanently!
+
+PayPal Security Team

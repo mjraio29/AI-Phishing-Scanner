@@ -1,0 +1,24 @@
+From: noreply@github.com
+To: user@email.com
+Subject: Your weekly repository digest
+
+Hi there,
+
+Here's a summary of what happened across your repositories this week.
+
+Commits:
+  - main: 4 new commits
+  - feature/auth: 2 new commits
+
+Pull Requests:
+  - #42 "Add rate limiting to API" was merged
+  - #45 "Fix typo in README" was opened
+
+Issues:
+  - #38 "Database timeout on high load" was closed
+
+Visit your dashboard to see more:
+https://github.com/dashboard
+
+Thanks,
+The GitHub Team
